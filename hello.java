@@ -1,1 +1,4 @@
-hello world!
+greeting(msg)
+{
+	"Hello world!"
+}
